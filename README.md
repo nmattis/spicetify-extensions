@@ -1,7 +1,6 @@
 # spicetify-extensions
 Custom extensions for spicetify-cli (https://github.com/khanhas/spicetify-cli)
-</br>
-</br>
+
 ## How to add extensions to Spicetify
 
 1. [Install spicetify-cli using the instructions found here](https://github.com/khanhas/spicetify-cli/wiki/Installation)
@@ -18,8 +17,7 @@ Custom extensions for spicetify-cli (https://github.com/khanhas/spicetify-cli)
     spicetify config extensions saveDiscoverWeekly.js
     ```
 5. Run `spicetify apply`
-</br>
-</br>
+
 ## saveDiscoverWeekly.js
 Extension to add a context menu option on the discover weekly playlist to allow you to save it out every week to a playlist named `Discover Weekly - YYYY/MM/DD` where the date is the first day of the week.
 
